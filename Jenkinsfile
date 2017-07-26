@@ -1,2 +1,3 @@
-
-echo 'from VCS'
+node {
+echo 'jenkinsfile from VCS'
+}
