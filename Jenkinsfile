@@ -1,3 +1,2 @@
-node {
+
 echo 'from VCS'
-}
